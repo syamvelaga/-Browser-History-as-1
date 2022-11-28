@@ -1,0 +1,25 @@
+.social-container {
+  display: flex;
+}
+.image-container {
+  display: flex;
+  margin-left: 40px;
+  align-items: center;
+}
+.image-social {
+  height: 40px;
+}
+.title {
+  display: flex;
+  margin-left: 20px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 1;
+}
+.domain-url {
+  margin-left: 10px;
+  color: burlywood;
+}
